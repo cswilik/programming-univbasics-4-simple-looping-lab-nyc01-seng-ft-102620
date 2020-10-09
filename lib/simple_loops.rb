@@ -1,4 +1,4 @@
 # Write your methods here
 
 def loop_message_five_times(string)
-  string.times(5)
+  4.times 
