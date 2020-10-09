@@ -23,6 +23,7 @@ end
 def return_string_array(array)
   counter = 0
   return array[counter]
+  counter += 1
 end 
   
   
